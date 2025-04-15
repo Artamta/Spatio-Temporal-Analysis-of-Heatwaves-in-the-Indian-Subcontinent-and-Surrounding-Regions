@@ -1,0 +1,23 @@
+# LOG FILE
+# function call on: 2025-04-15 16:38:51.000153
+#
+# Parameters
+# ----------
+#  ('self', <DeepGraph object, with n=115 node(s) and m=0 edge(s) at 0x136497ca0>)
+#  ('connectors', [<function cp_node_intersection at 0x12ce82dc0>, <function cp_intersection_strength at 0x12ce82e50>])
+#  ('selectors', None)
+#  ('transfer_features', None)
+#  ('r_dtype_dic', None)
+#  ('no_transfer_rs', ['intsec_card'])
+#  ('step_size', 10000000.0)
+#  ('from_pos', 0)
+#  ('to_pos', None)
+#  ('hdf_key', None)
+#  ('verbose', False)
+#  ('logfile', 'create_cpe')
+#
+# Iterations
+# ----------
+# max_pairs exceeded(1) | nr.of pairs | nr.of edges | comp.time(s)
+
+0	6555	6555	0.015
