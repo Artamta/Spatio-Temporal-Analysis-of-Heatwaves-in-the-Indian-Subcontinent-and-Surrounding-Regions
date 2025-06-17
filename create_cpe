@@ -1,10 +1,10 @@
 # LOG FILE
-# function call on: 2025-04-15 16:38:51.000153
+# function call on: 2025-06-11 05:26:25.541243
 #
 # Parameters
 # ----------
-#  ('self', <DeepGraph object, with n=115 node(s) and m=0 edge(s) at 0x136497ca0>)
-#  ('connectors', [<function cp_node_intersection at 0x12ce82dc0>, <function cp_intersection_strength at 0x12ce82e50>])
+#  ('self', <DeepGraph object, with n=128 node(s) and m=0 edge(s) at 0x16e082730>)
+#  ('connectors', [<function cp_node_intersection at 0x142881b80>, <function cp_intersection_strength at 0x142881c10>])
 #  ('selectors', None)
 #  ('transfer_features', None)
 #  ('r_dtype_dic', None)
@@ -20,4 +20,4 @@
 # ----------
 # max_pairs exceeded(1) | nr.of pairs | nr.of edges | comp.time(s)
 
-0	6555	6555	0.015
+0	8128	8128	0.023

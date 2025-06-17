@@ -99,6 +99,7 @@ fgv.rename(columns={'cp_n_cp_nodes': 'n_cp_nodes', 'longitude_amin':'longitude',
 # save updated cpv and gv table
 cpv.to_csv(path_or_buf = "/Users/ayush/Desktop/Final_Report/results/cpv_fam%s.csv" % i, index=False)
 gv.to_csv(path_or_buf = "/Users/ayush/Desktop/Final_Report/clustering2/gv_fam%s.csv" % i, index=False)
+
 plot.plot_families(no_clusters,fgv,gv,'Family_%s' % i)
 # uncomment if you want to plot the number of hits and not only the number of heat waves at every grid cell
 plot.plot_hits(no_clusters,fgv,gv,'Family_%s' % i)
